@@ -1,0 +1,10 @@
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.exe
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\obj\Debug\RV_Client.exe
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\obj\Debug\RV_Client.pdb
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Client1\RV_Client\bin\Debug\RV_Client.exe.config
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Client1\RV_Client\obj\Debug\RV_Client.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Client1\RV_Client\obj\Debug\RV_Client.pdb
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Client1\RV_Client\bin\Debug\RV_Client.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Client1\RV_Client\bin\Debug\RV_Client.pdb

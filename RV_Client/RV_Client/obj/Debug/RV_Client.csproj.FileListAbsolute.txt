@@ -1,0 +1,10 @@
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.exe
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\bin\Debug\RV_Client.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\obj\Debug\RV_Client.exe
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Client\RV_Client\obj\Debug\RV_Client.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Client\RV_Client\bin\Debug\RV_Client.exe.config
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Client\RV_Client\obj\Debug\RV_Client.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Client\RV_Client\obj\Debug\RV_Client.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Client\RV_Client\bin\Debug\RV_Client.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Client\RV_Client\bin\Debug\RV_Client.pdb

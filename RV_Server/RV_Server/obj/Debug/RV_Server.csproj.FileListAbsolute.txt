@@ -1,0 +1,12 @@
+c:\users\natasha\documents\visual studio 2015\Projects\RV_Server\RV_Server\bin\Debug\RV_Server.exe.config
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Server\RV_Server\bin\Debug\RV_Server.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Server\RV_Server\bin\Debug\RV_Server.pdb
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Server\RV_Server\obj\Debug\RV_Server.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Server\RV_Server\obj\Debug\RV_Server.pdb
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\RV_Server\RV_Server\obj\Debug\RV_Server.csprojResolveAssemblyReference.cache
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\bin\Debug\RV_Server.exe.config
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\obj\Debug\RV_Server.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\obj\Debug\RV_Server.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\bin\Debug\RV_Server.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\bin\Debug\RV_Server.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\рвип3\RV_Server\RV_Server\obj\Debug\RV_Server.csprojResolveAssemblyReference.cache
